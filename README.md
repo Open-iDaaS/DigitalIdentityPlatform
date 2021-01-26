@@ -1,2 +1,2 @@
-# DigitalIdentityPlatform
+# Digital Identity Platform
 Digital Identity Platform
